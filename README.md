@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raffleberry" alt="raffleberry" /> </p>
 
 - 🔭 I’m currently working on **Flutter, Firebase & React**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, **Svelte**
 - 👨‍💻 All of my projects are available at [my github repositories](https://github.com/raffleberry?tab=repositories)
-- 💬 Ask me about **Flutter, React, Django, Firebase, Electron, MongoDB**
+- 💬 Ask me about **Flutter, React, Svelte, Django, Firebase, Electron, MongoDB**
 - 📫 How to reach me **raffleberry42@gmail.com**
 - ⚡ Fun facts:
   - **I want to become Purple in Codeforces;**
